@@ -7,7 +7,7 @@
                 "/home/praveen/workspace/carla/LibCarla/source/",
                 "/home/praveen/workspace/carla/Build/boost-1.69.0-c7-install/include/",
                 "/home/praveen/workspace/carla/Build/rpclib-v2.2.1_c2-c7-libstdcxx-install/include/",
-                "/home/praveen/workspace/carla/Build/recast-c7-install/include/"
+                "/home/praveen/workspace/carla/Build/recast-cdce4e-c7-install/include/"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang++-7",
